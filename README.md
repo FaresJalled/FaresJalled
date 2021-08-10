@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FaresJalled 
-- 👀 I’m interested in modeling and simulation of memristive devices and systems.
+- 👀 I’m interested in modeling and simulation of memristive devices for neuronal systems.
 - 🌱 I’m currently learning C programming language.
 - 💞️ I’m looking to collaborate on machine and deep learning.
 - 📫 How to reach me: by email to jalledfars@phystech.edu
