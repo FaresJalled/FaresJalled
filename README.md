@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaresJalled 
+- 👋 Hi, I’m @Fares Jalled 
 - 👀 I’m interested in modeling and simulation of memristors and memristive devices for neuronal systems. 
 - 💞️ 🌱 I’m currently learning machine learning.
 - 📫 How to reach me: by email to jalledfars@phystech.edu
