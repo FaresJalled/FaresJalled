@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Fares Jalled 
-- 👀 I’m interested in modeling and simulation of memristors and memristive devices for neuronal systems.
-- I am also interested in IT System Administration / Systems Engineering.
-- 💞️ 🌱 I’m currently learning machine learning.
-- 📫 How to reach me: by email to jalledfars@phystech.edu
+- 👋 Hi, I’m @FaresJalled 
+- 👀 I’m interested in DevOps Tools and Technologies, Networking, and Systems Administration.
+- I am also interested in Semiconductors, Electronics, and Programming. I did a PhD in Electrical Engineering. The thesis topic is Modeling and Simulation of Memristors and Memristive Devices for Neuronal Systems.
+- I worked as Junior Systems Administrator.
+- 
+- 💞️ 🌱 I’m currently practising DevOps Technologies.
+- 📫 Please reach me by email on  jalledfars@phystech.edu
 
 <!---
 FaresJalled/FaresJalled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
